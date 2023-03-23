@@ -6,3 +6,7 @@
 ### - Lambda function
 ### - S3 bucket
 ### - prophet modeling
+
+### if the risk apetite is high the returns would be calcuated based on bitcoin
+### if the risk apetite is medium the returns would be a combination of bitcoin and spy
+### if the risk apetite is low the returns would be calcuated based on spy
